@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KotlinTutorial</string>
+    <string name="ifg">if (condition) {
+   // code block A to be executed if condition is true
+} else {
+  // code block B to be executed if condition is false
+}</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

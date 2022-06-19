@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailedActivity">
+
+    <TextView
+        android:id="@+id/textview"
+        android:layout_margin="10dp"
+        android:textStyle="bold"
+        android:padding="10dp"
+        android:text="Ushbu Kotlin qo'llanmasi tajribali Kotlin dasturchilari tomonidan yangi boshlanuvchilar uchun Kotlin dasturlash tili asoslarini tushunishga yordam berish uchun tayyorlangan. Ushbu qo'llanmani tugatgandan so'ng, siz o'zingizni Kotlinda o'rtacha darajadagi tajribaga ega bo'lasiz, u erdan keyingi darajalarga o'tishingiz mumkin.
+    Kotlin nima?
+Kotlin — JetBrains tomonidan 2011-yilda taqdim etilgan dasturlash tili boʻlib, Intellij IDEA nomli eng aqlli Java IDE-ning rasmiy dizayneri. Kotlin bepul, ozod bo'lgan va ozod bo'lib qoladi. U Apache 2.0 litsenziyasi ostida ishlab chiqilgan va manba kodi GitHub da mavjud.\n
+\nBu JVM da ishlaydigan kuchli statik tarzda yozilgan umumiy maqsadli dasturlash tili. 2017-yilda Google Kotlinni androidni ishlab chiqish uchun rasmiy til ekanligini eʼlon qildi. Kotlin ochiq kodli dasturlash tili bo'lib, u ob'ektga yo'naltirilgan dasturlash va funktsional xususiyatlarni noyob platformada birlashtiradi. Tarkib oddiy va foydali misollar bilan bog'liq mavzularni o'z ichiga olgan turli boblarga bo'lingan.\n\n
+Kotlin - bu ishlab chiquvchilarni xursand qiladigan zamonaviy dasturlash tili. Kotlinni olish oson, shuning uchun siz darhol kuchli ilovalar yaratishingiz mumkin.\n
+Hozirda Kotlin asosan Java Virtual Mashinasini (JVM) maqsad qilib qo'yadi, balki JavaScript-ni kompilyatsiya qiladi. Kotlinga Java, C#, JavaScript, Scala va Groovy kabi boshqa mashhur dasturlash tillari taʼsir koʻrsatadi. Kotlin sintaksisi Java dasturlash tiliga mutlaqo o'xshamasligi mumkin, ammo Kotlin dasturchilar uchun ajoyib natijalarga erishish uchun mavjud Java Class kutubxonasiga tayanadi. Kotlin butun dunyo bo'ylab ishlab chiquvchilar uchun birgalikda ishlash, kod xavfsizligi va ravshanlikni ta'minlaydi.\n\n
+ Kotlin Jobs\n
+Kotlinga talab juda yuqori va barcha yirik kompaniyalar o'zlarining veb va mobil ilovalarini ishlab chiqish uchun Kotlin tomon harakat qilmoqdalar.\n
+Kotlin dasturchisi uchun o'rtacha yillik ish haqi taxminan 130 000 dollarni tashkil qiladi. Garchi bu joylashuvga qarab farq qilishi mumkin. Quyida Kotlindan foydalanadigan yirik kompaniyalar:\n\n
+Google\n
+Amazon\n
+Netflix\n
+Pinterest\n
+Uber\n
+Trello\n
+Kursera\n
+Asosiy kamar\n
+Korda\n
+JetBrains\n
+Yana ko'p...\n\n
+Shunday qilib, siz ushbu yirik kompaniyalarning har qanday keyingi potentsial xodimi bo'lishingiz mumkin. Biz Kotlin uchun ajoyib o'quv materialini ishlab chiqdik, bu sizga Kotlin asosidagi texnik intervyu va sertifikat imtihonlariga tayyorgarlik ko'rishga yordam beradi. Shunday qilib, Kotlinni o'rganishni bizning oddiy va samarali o'quv qo'llanmamizdan istalgan joyda va istalgan vaqtda o'z tezligingizda boshlang.\n
+Kotlin onlayn kompilyatori\n
+\n
+fun main(){\n
+ var string: String  = Hello, World!  // defining a variable
+ println($string)\n
+}"
+        android:textSize="14sp"
+        android:textColor="#57A2ED"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</androidx.core.widget.NestedScrollView>
